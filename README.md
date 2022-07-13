@@ -1,6 +1,6 @@
 # Projeto RocketGuru
 
-<p align="center"><img src="https://img.shields.io/badge/languages-2-green"> <img src="https://img.shields.io/badge/-HTML-orange"> <img src="https://img.shields.io/badge/-CSS-blue"> <img src="https://img.shields.io/badge/-JavaScript-yellow"> <img src="https://img.shields.io/github/last-commit/luccasmg/projeto-rocketguru"></p>
+<p align="center"><img src="https://img.shields.io/badge/languages-3-green"> <img src="https://img.shields.io/badge/-HTML-orange"> <img src="https://img.shields.io/badge/-CSS-blue"> <img src="https://img.shields.io/badge/-JavaScript-yellow"> <img src="https://img.shields.io/github/last-commit/luccasmg/projeto-rocketguru"></p>
 
 <p align="center"><img src="img/rocketguru.png"></p>
 
