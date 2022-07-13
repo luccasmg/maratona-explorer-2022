@@ -8,7 +8,7 @@
 
 ## 📋 Sobre o Projeto
 
-O projeto foi desenvolvido durante a Maratona Explorer 2022 da Rocketseat com o objetivo desenvolver um website, utilizando HTML, CSS e JavaScript, com uma funcionalidade que gerar respostas aleatórias e pré-definidas para as perguntas feitas pelo usuário.
+O projeto foi desenvolvido durante a Maratona Explorer 2022 da Rocketseat com o objetivo desenvolver um website, utilizando HTML, CSS e JavaScript, com uma funcionalidade que gera respostas aleatórias e pré-definidas para as perguntas feitas pelo usuário.
 
 ## 💻 Demonstração
 
