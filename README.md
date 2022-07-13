@@ -21,5 +21,5 @@ Você pode acessar a <a href="https://luccasmg.github.io/projeto-rocketguru/" ta
 
 ## ✅ Licença
 
-<a href="license.txt">MIT License</a>
+<a href="LICENSE.txt">MIT License</a>
 
